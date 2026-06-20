@@ -1,0 +1,80 @@
+Machine Learning Documentation
+
+Artificial Intelligence (AI)
+Artificial Intelligence is a field of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. Examples include speech recognition, image classification, and decision making.
+
+Machine Learning (ML)
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data without being explicitly programmed. Machine learning algorithms identify patterns in data and make predictions.
+
+Supervised Learning
+Supervised Learning is a machine learning approach where models are trained using labeled data. Examples include Linear Regression, Logistic Regression, Decision Trees, and Random Forest.
+
+Unsupervised Learning
+Unsupervised Learning works with unlabeled data. Common algorithms include K-Means Clustering and Principal Component Analysis (PCA).
+
+Linear Regression
+Linear Regression is a supervised learning algorithm used to predict continuous values. It establishes a relationship between input variables and a target variable using a straight-line equation.
+
+Logistic Regression
+Logistic Regression is a classification algorithm used for binary classification problems. It predicts probabilities using the sigmoid function.
+
+Decision Tree
+A Decision Tree is a supervised learning algorithm that splits data into branches based on feature values. It is easy to understand and interpret.
+
+Random Forest
+Random Forest is an ensemble learning technique that combines multiple decision trees. It improves accuracy and reduces overfitting.
+
+XGBoost
+XGBoost is a gradient boosting framework that builds models sequentially and corrects errors made by previous models. It is widely used in machine learning competitions.
+
+Overfitting
+Overfitting occurs when a model learns the training data too well, including noise and outliers. As a result, it performs poorly on unseen data.
+
+Underfitting
+Underfitting occurs when a model is too simple to capture the underlying patterns in the data.
+
+Cross Validation
+Cross Validation is a technique used to evaluate machine learning models by splitting data into multiple training and testing sets.
+
+Feature Engineering
+Feature Engineering is the process of creating, transforming, and selecting features to improve model performance.
+
+Model Evaluation Metrics
+
+Accuracy:
+Accuracy measures the percentage of correct predictions made by a model.
+
+Precision:
+Precision measures how many predicted positive cases are actually positive.
+
+Recall:
+Recall measures how many actual positive cases were correctly identified.
+
+F1 Score:
+F1 Score is the harmonic mean of Precision and Recall.
+
+RMSE:
+Root Mean Squared Error (RMSE) measures the average prediction error for regression models.
+
+MLOps
+MLOps is the practice of automating and managing the machine learning lifecycle, including training, deployment, monitoring, and retraining.
+
+Retrieval Augmented Generation (RAG)
+RAG combines information retrieval with large language models. Documents are converted into embeddings and stored in a vector database. When a user asks a question, relevant chunks are retrieved and provided to the language model for generating accurate answers.
+
+Vector Database
+A Vector Database stores embeddings and enables semantic search. Examples include ChromaDB, FAISS, Pinecone, and Weaviate.
+
+LangChain
+LangChain is a framework for building applications powered by large language models. It provides components for document loading, chunking, retrieval, agents, and chains.
+
+FAISS
+FAISS is a vector similarity search library developed by Meta. It is commonly used in RAG applications for efficient retrieval.
+
+ChromaDB
+ChromaDB is an open-source vector database designed for storing embeddings and performing semantic search.
+
+Gemini
+Gemini is Google's family of large language models that support text generation, reasoning, summarization, and question answering.
+
+End of Document.
