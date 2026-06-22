@@ -123,6 +123,3 @@ Response:
 * HuggingFace Embeddings
 * Groq
 * Llama 3.1
-
-
-Rohit Badgujar
